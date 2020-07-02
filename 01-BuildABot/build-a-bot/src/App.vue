@@ -5,7 +5,7 @@
         <ul>
           <li class="nav-item">
             <img class="logo" src="./assets/build-a-bot-logo.png"/>
-            Build-a-Boot
+            Build-a-Bot
           </li>
         </ul>
       </nav>
